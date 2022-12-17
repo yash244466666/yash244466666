@@ -5,15 +5,15 @@
 ![code](https://user-images.githubusercontent.com/74345713/208240512-051127dd-6a40-4c2d-b850-1e96628890b5.gif)
 
 ## <p align="left">Reach me on</p>
-
-<a href="https://twitter.com/yash_solo000" rel="nofollow">
-  <img  alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
-</a>
-<br>
-<a href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
-  <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
-</a>
-
+<div style="display: flex;
+justify-content: center; align-items: center;"> 
+    <a href="https://twitter.com/yash_solo000" rel="nofollow">
+    <img  alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
+    </a>
+    <a href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
+    <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
+    </a>
+</div>
 - :calling: Any frelancing work? Reach out, [email.](yash.solo.000@gmail.com)
 - 💬 I am willing to assist on any questions.
 
@@ -28,9 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## My Portfolio
-My online portfolio can be found [here](https://yash244466666.github.io/Microverse---Portfolio-setup-and-mobile-first/
-
-Built With)
+My online portfolio can be found [here](https://yash244466666.github.io/Microverse---Portfolio-setup-and-mobile-first/)
 
 ## Certificates & Licenses
 [<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774143" />](https://www.credential.net/5539053a-9311-4051-a86f-16e563785bd6)
