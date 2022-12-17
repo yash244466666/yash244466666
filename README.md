@@ -14,7 +14,7 @@
   <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
 </a>
 
-- :calling: Any frelancing work? Reach out, [email.](georgeleehaney20@gmail.com)
+- :calling: Any frelancing work? Reach out, [email.](yash.solo.000@gmail.com)
 - 💬 I am willing to assist on any questions.
 
 ## languages and tools:
