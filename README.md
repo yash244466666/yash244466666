@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
   <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
 </a>
+------------
 
 <!--
 **yash244466666/yash244466666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
