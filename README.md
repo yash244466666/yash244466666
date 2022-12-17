@@ -5,10 +5,10 @@
 ![code](https://user-images.githubusercontent.com/74345713/208240512-051127dd-6a40-4c2d-b850-1e96628890b5.gif)
 
 ## <p align="center">Reach me on</p>
-<a href="https://twitter.com/yash_solo000" rel="nofollow">
-  <img align="center" alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+<a align="center" href="https://twitter.com/yash_solo000" rel="nofollow">
+  <img  alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
+<a align="center" href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
   <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 </br>
