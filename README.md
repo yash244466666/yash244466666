@@ -1,4 +1,6 @@
 ## <h1 align="center">Hey there!:wave:, I'm Yash</h1>
+<p align="center"><b>A full-stack web developer and a Civil Engineer from Bangladesh</b></p>
+<p align="center">I have a great passion for learning languages, frameworks, and new technologies. More so, I love sharing knowledge with people and connecting them through websites. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
 ![code](https://user-images.githubusercontent.com/74345713/208240512-051127dd-6a40-4c2d-b850-1e96628890b5.gif)
 <!--
