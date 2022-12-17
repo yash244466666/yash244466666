@@ -6,10 +6,10 @@
 
 ## <p align="center">Reach me on</p>
 <a align="center" href="https://twitter.com/yash_solo000" rel="nofollow">
-  <img  alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+  <img  alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
 </a>
 <a align="center" href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
-  <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
 </a>
 </br>
 <br>
