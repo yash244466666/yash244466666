@@ -51,9 +51,10 @@
 <br>
 
 - **Back-End Development**:
+
    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-   ![Ruby](https://img.shields.io/badge/Ruby%20-%23E34F26.svg?style=for-the-badge&logo=Ruby&logoColor=white)
    ![Django](https://img.shields.io/badge/Django%20-%222A68.svg?style=for-the-badge&logo=Django&logoColor=black)
+   ![Ruby](https://img.shields.io/badge/Ruby%20-%23E34F26.svg?style=for-the-badge&logo=Ruby&logoColor=white)
    ![Ruby on Rails](https://img.shields.io/badge/RubyonRails%20-%23E34F26.svg?style=for-the-badge&logo=RubyonRails&logoColor=white)
    
 
