@@ -105,7 +105,7 @@ I am confident that my technical skills and passion for web development make me 
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash244466666&theme=merko&layout=compact)](https://github.com/yash244466666)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash244466666&theme=merko)](https://github.com/yash244466666)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash244466666&theme=merko&layout=compact)](https://github.com/yash244466666)
 
 
 
