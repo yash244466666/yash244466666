@@ -31,6 +31,7 @@ I am constantly seeking to expand my knowledge and stay up-to-date with the late
 
 I am confident that my technical skills and passion for web development make me a valuable asset to any team. I am excited to continue growing as a developer and to contribute my skills to new and challenging projects.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<h2> I am currently available for hire..! </h2>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -117,7 +118,6 @@ I am confident that my technical skills and passion for web development make me 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-<h2> I am currently available for work! </h2>
 <br>
 <br>
 <ul>
