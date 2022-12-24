@@ -121,7 +121,7 @@
 <ul>
   <li>
   <a href="tel:+44-785-7895" target="_blank">
-  <img src="https://img.shields.io/badge/phone:  +8801710008502-%3c403cee.svg?style=for-the-badge&logo=phone&logoColor=white"style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/phone:  +8801710008502-%23EA4335.svg?style=for-the-badge&logo=phone&logoColor=white"style="margin-bottom: 5px;" />
   </a>
   </li>
   <br>
