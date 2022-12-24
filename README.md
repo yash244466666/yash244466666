@@ -19,6 +19,15 @@
 - I’m currently OPEN for a new job opportunity, see my [projects](https://yash244466666.github.io/Microverse---Portfolio-setup-and-mobile-first/)
 
 <br><br>
+<p>As a full stack web developer, I have a strong foundation in both front-end and back-end web development technologies. With [X] years of experience in the industry, I have honed my skills in a variety of programming languages and frameworks, including [List of languages and frameworks].
+
+I am skilled in the full web development life cycle, from gathering and analyzing requirements to designing, coding, testing, and deploying web applications. I am comfortable working independently or as part of a team, and I have excellent communication skills, which allow me to effectively collaborate with non-technical stakeholders.
+
+I am proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, and [List of back-end technologies]. I am also experienced in developing responsive and mobile-friendly websites, as well as integrating with APIs and working with databases.
+
+I am constantly seeking to expand my knowledge and stay up-to-date with the latest developments in the field. I am particularly interested in [Area of focus] and have completed several projects in this area, including [Project examples].
+
+I am confident that my technical skills and passion for web development make me a valuable asset to any team. I am excited to continue growing as a developer and to contribute my skills to new and challenging projects.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
