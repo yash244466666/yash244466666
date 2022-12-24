@@ -121,33 +121,30 @@
 <ul>
 
   <li>
-<a href="https://www.linkedin.com/in/yash-solo/-5036741b4/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Yash Solo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-  
-<br>
+  <a href="https://www.linkedin.com/in/yash-solo/-5036741b4/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin:  Yash Solo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+  </li> 
+  <br>
+  <li>
+  <a href="https://twitter.com/yash_solo000" target="_blank">
+  <img src="https://img.shields.io/badge/twitter:  @yash_solo000-%23EA4335.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+  </a>
+  </li>
+  <br>
+  <li>
+  <a href="https://api.whatsapp.com/send?phone=+8801710008502" target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%04b51b.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
+  </a>
+  </li>
+  <br>
+  <li>
+  <a href="mailto:yash.solo.000@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail:  yash.solo.000@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+  </li>
 
-<li>
-<a href="https://twitter.com/yash_solo000" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  @yash_solo000-%23EA4335.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
 
-
-
-<li>
-<a href="mailto:yash.solo.000@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  yash.solo.000@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-<br>
-<li>
-<a href="https://api.whatsapp.com/send?phone=+8801710008502" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%04b51b.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
-</a>
-</li>
-	
 </ul>
 </div>
 
