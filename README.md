@@ -18,7 +18,7 @@
 - Currently learning Web Development at Microverse
 - I’m currently open for a new job opportunity, see my [projects](https://yashsolo.netlify.app/)
 
-<h2> I am currently available for hire..! </h2>
+<h2 align="center"> I am currently available for hire..! </h2>
 
 <br><br>
 
