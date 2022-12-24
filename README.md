@@ -12,9 +12,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-<h2> I am currently available for hire..! </h2>
-<br>
-<br>
+
 - I'm passionate about Software Developement
 - Civil and Mechanical Engineer
 - Currently learning Web Development at Microverse
