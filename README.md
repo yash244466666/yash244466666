@@ -19,7 +19,7 @@
 - I’m currently open for a new job opportunity, see my [projects](https://yashsolo.netlify.app/)
 
 <br><br>
-<h2> I am currently available for hire..! </h2>
+<h2 style = "color:red;"> I am currently available for hire..! </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p>As a full stack software developer, I have a strong foundation in both front-end and back-end web development technologies. With three years of experience in the industry, I have honed my skills in a variety of programming languages and frameworks, including C, C++, JavaScript, Python, Ruby, HTML, CSS, React, jQuery, Django, Ruby on Rails etc.
 
