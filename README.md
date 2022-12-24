@@ -134,16 +134,17 @@
 </a>
 </li>
 
-<br>
+
 
 <li>
 <a href="mailto:yash.solo.000@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  yash.solo.000@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+<br>
 <li>
 <a href="https://api.whatsapp.com/send?phone=+8801710008502" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%23EA4335.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%04b51b.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
 </a>
 </li>
 	
