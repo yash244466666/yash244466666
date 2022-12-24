@@ -16,7 +16,7 @@
 - I'm passionate about Software Developement
 - Civil and Mechanical Engineer
 - Currently learning Web Development at Microverse
-- I’m currently OPEN for a new job opportunity, see my [projects](https://yash244466666.github.io/Microverse---Portfolio-setup-and-mobile-first/)
+- I’m currently OPEN for a new job opportunity, see my [projects](https://yashsolo.netlify.app/)
 
 <br><br>
 
