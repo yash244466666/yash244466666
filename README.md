@@ -133,6 +133,12 @@
   </li>
   <br>
   <li>
+  <a href="tel:+44-785-7895" target="_blank">
+  <img src="https://img.shields.io/badge/phone:  +8801710008502-%04b51b.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
+  </a>
+  </li>
+  <br>
+  <li>
   <a href="https://api.whatsapp.com/send?phone=+8801710008502" target="_blank">
   <img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%04b51b.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
   </a>
