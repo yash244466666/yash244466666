@@ -143,7 +143,7 @@
 </li>
 <li>
 <a href="https://api.whatsapp.com/send?phone=+8801710008502" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%23EA4335.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%23EA4335.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
 </a>
 </li>
 	
