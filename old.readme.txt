@@ -1,0 +1,55 @@
+##<h1 align="center">Hey there!, I'm Yash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yash244466666&color=green&style=for-the-badge&label=PROFILE+VISITORS" alt="yash244466666" /> </p>
+<p align="right"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2000&pause=900&color=5FF762&width=800&height=100&lines=My+full+name+is+Md.+Mohi+Minul+Islam+Yash..%E2%9C%8C;Full-Stack+Software+Developer%2C;Software+developer+student+%40+Microverse;Active+Learner+and+Innovator%2C;Love+to+learn+new+things%2C;I+just+%F0%9F%92%9A+everything+related+to+Engineering" alt="Typing SVG" /></a></p>
+
+<p align="right">
+<img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash244466666)](https://github.com/anuraghazra/github-readme-stats)">
+
+</p>
+
+
+## <p align="left">Reach me on</p>
+<div style="display: flex;
+justify-content: center; align-items: center;"> 
+    <a href="https://twitter.com/yash_solo000" rel="nofollow">
+    <img  alt="Yash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
+    </a>
+    <a href="https://www.linkedin.com/in/yash-solo/" rel="nofollow">
+    <img align="center" alt="Yash LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
+    </a>
+</div>
+
+- :calling: Any frelancing work? Reach out, [email.](yash.solo.000@gmail.com)
+- 💬 I am willing to assist on any questions.
+
+##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> languages and tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+## My Portfolio
+My online portfolio can be found [here](https://yash244466666.github.io/Microverse---Portfolio-setup-and-mobile-first/)
+
+## Certificates & Licenses
+[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774143" />](https://www.credential.net/5539053a-9311-4051-a86f-16e563785bd6)
+
+<!--
+**yash244466666/yash244466666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
