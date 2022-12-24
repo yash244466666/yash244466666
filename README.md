@@ -117,7 +117,9 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
+<h2> I am currently available for work! </h2>
+<br>
+<br>
 <ul>
   <li>
   <a href="tel:+44-785-7895" target="_blank">
