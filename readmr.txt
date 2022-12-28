@@ -122,18 +122,3 @@ I am confident that my technical skills and passion for web development make me 
   </a>
   </li> 
   <br>
-  <li>
-  <a href="https://twitter.com/yash_solo000" target="_blank">
-  <img src="https://img.shields.io/badge/twitter:  @yash_solo000-%23EA4335.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-  </a>
-  </li>
-  <br>
-  <li>
-  <a href="https://api.whatsapp.com/send?phone=+8801710008502" target="_blank">
-  <img src="https://img.shields.io/badge/whatsapp:  +8801710008502-%04b51b.svg?style=for-the-badge&logo=whatsapp&logoColor=white" t=whatsapp style="margin-bottom: 5px;" />
-  </a>
-  </li>
-  <br>
-  <li>
-
-
