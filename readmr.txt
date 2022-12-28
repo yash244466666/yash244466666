@@ -108,17 +108,3 @@ I am confident that my technical skills and passion for web development make me 
 <br>
 <div align='left'>
 <br>
-<br>
-<ul>
-  <li>
-  <a href="tel:+44-785-7895" target="_blank">
-  <img src="https://img.shields.io/badge/phone:  +8801710008502-%23EA4335.svg?style=for-the-badge&logo=phone&logoColor=white"style="margin-bottom: 5px;" />
-  </a>
-  </li>
-  <br>
-  <li>
-  <a href="https://www.linkedin.com/in/yash-solo/-5036741b4/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:  Yash Solo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-  </li> 
-  <br>
