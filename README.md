@@ -115,7 +115,7 @@ I am confident that my technical skills and passion for web development make me 
 <br>
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
+## <b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Let's Connect..!</b>
 
 <br>
 <div align='left'>
