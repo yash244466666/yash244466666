@@ -54,7 +54,7 @@ I am confident that my technical skills and passion for web development make me 
 ![React](https://img.shields.io/badge/React%20-%222A68.svg?style=for-the-badge&logo=React&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%23E34F26.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass%20-%231572B6.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) -->
 
 <br>
 
@@ -115,8 +115,8 @@ I am confident that my technical skills and passion for web development make me 
 <br>
 <br>
 
-<!-- ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect </b> -->
-## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect </b>
+<!-- ## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> -->
 
 <br>
 <div align='left'>
