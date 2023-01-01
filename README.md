@@ -89,7 +89,7 @@ I am confident that my technical skills and passion for web development make me 
 
 ---
 
-## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b align="center"> Github Stats </b>
+## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
 
@@ -115,7 +115,7 @@ I am confident that my technical skills and passion for web development make me 
 <br>
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="100"></picture> <b>Let's Connect</b>
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"></picture> <b>Let's Connect</b>
 
 <br>
 <div align='left'>
