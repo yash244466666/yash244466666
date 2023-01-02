@@ -1,6 +1,7 @@
 <h1 align="center">Hey there!, I'm Yash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yash244466666&color=green&style=for-the-badge&label=PROFILE+VISITORS" alt="yash244466666" /> </p>
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=48&duration=2000&pause=1000&width=1200&height=100&lines=My+full+name+is+Md.+Mohi+Minul+Islam+Yash..%E2%9C%8C;I'm+a+Full-Stack+Software+Developer;Software+Development+student+%40+Microverse+;An+active+Learner+%26+Innovator;I'm+from+Bangladesh;I+just+%F0%9F%92%99%F0%9F%92%9C+everything+about+engineering+%F0%9F%92%96+" alt="Typing SVG" /></a></p>
+<div align="center">
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=48&duration=2000&pause=1000&width=1200&height=100&lines=My+full+name+is+Md.+Mohi+Minul+Islam+Yash..%E2%9C%8C;I'm+a+Full-Stack+Software+Developer;Software+Development+student+%40+Microverse+;An+active+Learner+%26+Innovator;I'm+from+Bangladesh;I+just+%F0%9F%92%99%F0%9F%92%9C+everything+about+engineering+%F0%9F%92%96+" alt="Typing SVG" /></a></p></div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
