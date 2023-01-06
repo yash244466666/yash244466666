@@ -14,10 +14,10 @@
 
 <br>
 
-- I'm passionate about Software Developement
+<!-- - I'm passionate about Software Developement
 - Civil and Mechanical Engineer
 - Currently learning Web Development at Microverse
-- I’m currently open for a new job opportunity, see my [projects](https://yashsolo.netlify.app/)
+- I’m currently open for a new job opportunity, see my [projects](https://yashsolo.netlify.app/) -->
 
 <h1 align="center"> I am currently available for hire... </h1>
 
