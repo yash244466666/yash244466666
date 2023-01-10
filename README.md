@@ -158,7 +158,7 @@ I am confident that my technical skills and passion for web development make me 
 
 <div align='center'>
 
-## <b>A Journey of a thousand Miles begins with a Single Step✨</b>
+<h1> <b>A Journey of a thousand Miles begins with a Single Step✨</b> </h1>
 
 </div>
 <br>
