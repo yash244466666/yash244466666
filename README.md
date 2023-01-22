@@ -103,7 +103,7 @@ I am confident that my technical skills and passion for web development make me 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash244466666&theme=dark)](https://github.com/yash244466666) -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=yash244466666&theme=vision-friendly-dark"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yash244466666&"> -->
 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash244466666&theme=dark)](https://github.com/yash244466666)
 
