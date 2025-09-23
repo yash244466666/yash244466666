@@ -1,4 +1,54 @@
-<div align="ce## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture> **About me**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Md.%20Mohi%20Minul%20Islam%20Yash&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Software+Engineer+%F0%9F%92%BB;Problem+Solver+%26+Innovator+%E2%9C%A8;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/>
+</h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash244466666&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yash244466666?style=for-the-badge&color=blue&labelColor=1c1917&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
+</div>
+
+<div align="center">
+  <h3>🚀 Employment Status</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Status-🎯%20ACTIVELY%20SEEKING%20OPPORTUNITIES-success?style=for-the-badge&labelColor=000000" alt="Job Status"/>
+    <img src="https://img.shields.io/badge/Available%20for-Full--time%20%7C%20Freelance%20%7C%20Remote-blue?style=for-the-badge&labelColor=000000" alt="Availability"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Roles-Full--Stack%20Developer%20%7C%20AI%2FML%20Engineer-orange?style=for-the-badge&labelColor=000000" alt="Target Roles"/>
+    <img src="https://img.shields.io/badge/Graduate-2024%20CSE%20Graduate-purple?style=for-the-badge&labelColor=000000" alt="Education Status"/>
+  </p>
+</div>
+
+## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture> **About me**
+
+<div align="center">
+  <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
+
+### 💼 **Current Professional Status**
+- 🎯 **Actively seeking** Full-Stack Developer & AI/ML Engineer positions
+- 🚀 **Open to opportunities** in Software Development, Data Science, and AI Research
+- 🌟 **Available for** freelance projects and collaborations
+- 📈 **Focusing on** building innovative AI-powered applications
+- 🎓 **Recent Graduate** (2024) with strong academic foundation and practical experience
+
+### 🔥 **What I'm Up To**
+- 🔭 Currently working on **AI-powered web applications** and **machine learning projects**
+- 🌱 Continuously learning **Advanced AI/ML techniques**, **Cloud Architecture**, and **DevOps practices**
+- 👯 Looking to collaborate on **Open Source Projects**, **AI/ML initiatives**, and **innovative startups**
+- 💡 Interested in **remote opportunities** and **international collaborations**
+- 📫 **Ready to discuss** exciting opportunities - reach out via **yash.solo.000@gmail.com**
+
+### 🎯 **Career Objectives 2025**
+- 🏢 Land a **Full-Stack Developer** or **AI/ML Engineer** role at a progressive tech company
+- 🌍 Contribute to **impactful projects** that solve real-world problems
+- 📚 **Continuous learning** and professional development in emerging technologies
+- 🤝 Build meaningful **professional networks** and **mentorship relationships**media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture> **About me**
 
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -7,7 +57,8 @@
 ```yaml
 name: Md. Mohi Minul Islam Yash
 located_in: Sylhet, Bangladesh
-current_job: Full-Stack Developer & AI Enthusiast
+current_status: "🎯 Actively Seeking Full-Stack Developer & AI/ML Engineer Positions"
+employment_status: "Recent Graduate (2024) - Open to Opportunities"
 education: 
   - "B.Sc in Computer Science & Engineering"
   - "Leading University, Sylhet"
@@ -20,26 +71,31 @@ fields_of_interests:
   - "Software Engineering"
   - "Problem Solving & Algorithms"
   
-currently_learning: ["Advanced AI/ML", "Cloud Technologies", "DevOps"]
-2025_goals: ["Contribute to Open Source", "Build AI Applications", "Land Dream Job"]
-hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Cricket"]
+currently_learning: ["Advanced AI/ML", "Cloud Technologies", "DevOps", "System Design"]
+2025_goals: ["Land Dream Job", "Contribute to Open Source", "Build AI Applications", "Professional Growth"]
+availability: ["Full-time Positions", "Freelance Projects", "Remote Work", "International Opportunities"]
+hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Cricket", "AI Research"]
 ```
 
 <br>
 
-### 🚀 **Current Status**
-- 🔭 I'm currently working on **AI-powered web applications**
-- 🌱 I'm currently learning **Advanced Machine Learning & Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects & AI/ML initiatives**
-- 🤝 I'm looking for help with **Advanced System Design & Architecture**
-- 💬 Ask me about **Python, Django, React, AI/ML, Data Science**
-- 📫 How to reach me: **yash.solo.000@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love solving complex problems and building innovative solutions!**
+### 🚀 **Professional Overview**
+- 🎓 **Recent CSE Graduate** (2024) with strong academic foundation (CGPA: 3.55/4.00)
+- 🔭 **Currently building** AI-powered web applications and machine learning solutions
+- 🌱 **Actively learning** Advanced ML, Cloud Architecture, System Design & DevOps
+- 👯 **Open to collaborate** on innovative projects, startups, and open source initiatives
+- 🎯 **Seeking opportunities** in Full-Stack Development, AI/ML Engineering, or Data Science roles
+- 💼 **Available for** full-time positions, freelance projects, and remote work
+- 💬 **Technical expertise** in Python, Django, React, AI/ML, Data Science, and Cloud Technologies
+- 📫 **Contact me** at **yash.solo.000@gmail.com** for exciting opportunities
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning complex problems into elegant, scalable solutions!
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash244466666&bg_color=161B22&color=9BE9A8&line=58A6FF&point=F85D7F&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Md.%20Mohi%20Minul%20Islam%20Yash&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack & Skills </b>
 </div>
 
 <h1 align="center">
