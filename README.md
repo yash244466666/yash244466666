@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=600&pause=150&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%F0%9F%9A%80+Software+Engineer+at+Prospect+Engine;%F0%9F%90%8D+Python+%7C+Django+%7C+React+%7C+Vue.js+Expert;%E2%9A%A1+4%2B+Years+of+Experience;%F0%9F%94%A5+AI+Automation+%26+Reverse+Engineering;%F0%9F%8C%9F+Building+Scalable+SaaS+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=600&pause=150&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%F0%9F%8C%9F+Open+to+New+Opportunities!;%F0%9F%9A%80+Full-Stack+JavaScript+%7C+TypeScript+Expert;%F0%9F%90%8D+Next.js+%7C+NestJS+%7C+React+%7C+Node.js+Specialist;%E2%9A%A1+4%2B+Years+of+Experience;%F0%9F%94%A5+Building+Modern+Web+Applications" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,23 +24,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **Software Engineer** with **4+ years of experience** building scalable web applications and AI-powered automation systems. I specialize in creating robust backend systems with **Python/Django** and dynamic frontend experiences with **React/Vue.js**, while also working on **AI automation** and **reverse engineering** for SaaS products.
+I'm a passionate **Full-Stack Software Engineer** with **4+ years of experience** building modern web applications and scalable systems. I specialize in creating robust backend APIs with **Node.js/NestJS** and dynamic frontend experiences with **Next.js/React**, while also working on **TypeScript** development and **microservices architecture**.
 
 ### 🔥 What I Do:
 - 🌐 **Full-Stack Development**: End-to-end web application development
-- 🐍 **Backend Expert**: Python, Django, Ruby on Rails, Node.js, NestJS
-- ⚛️ **Frontend Specialist**: React, Vue.js, Next.js, JavaScript, TypeScript
-- 🤖 **AI Automation**: Reverse engineering platforms for AI-based automation
+- ⚡ **JavaScript/TypeScript Expert**: Node.js, NestJS, Next.js, React, Vue.js
+- 🚀 **Modern Frontend**: Next.js, React, TypeScript, Tailwind CSS, Redux
+- 🔧 **Backend Specialist**: NestJS, Node.js, Express.js, FastAPI, Django
 - 📱 **Responsive Design**: Mobile-first, cross-platform applications
-- 🔗 **API Integration**: RESTful APIs, GraphQL, and third-party services
-- 🗄️ **Database Management**: PostgreSQL, MySQL, MongoDB
+- 🔗 **API Development**: RESTful APIs, GraphQL, and microservices
+- 🗄️ **Database Management**: PostgreSQL, MongoDB, Redis
 - ☁️ **Cloud Technologies**: AWS, Docker, DevOps practices
 
 ### 💼 Currently:
-- 🚀 **Software Engineer at Prospect Engine** - Working on SaaS products and AI automation
-- 🌱 **Learning**: Advanced AI/ML integration and microservices architecture
+- 🔍 **Open for new opportunities** - Let's build something amazing together!
+- 🌱 **Learning**: Advanced microservices architecture and cloud technologies
 - 👯 **Looking to collaborate** on innovative open-source projects
-- 💬 **Ask me about**: Python, Django, React, Vue.js, AI automation, or web development
+- 💬 **Ask me about**: JavaScript, TypeScript, Next.js, NestJS, React, or full-stack development
 - ⚡ **Fun fact**: I helped reduce bugs by 30% and improved efficiency by 25% in previous projects! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="20" />
 
 ## 🛠️ Technical Arsenal
@@ -48,29 +48,29 @@ I'm a passionate **Software Engineer** with **4+ years of experience** building 
 <div align="center">
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Databases & Tools
