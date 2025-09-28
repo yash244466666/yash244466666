@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%F0%9F%9A%80+Full-Stack+Software+Developer;%F0%9F%90%8D+Python+%7C+Django+%7C+React+Expert;%E2%9A%A1+3%2B+Years+of+Experience;%F0%9F%94%A5+Building+Scalable+Web+Applications;%F0%9F%8C%9F+Open+to+New+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=300&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%F0%9F%9A%80+Full-Stack+Software+Developer;%F0%9F%90%8D+Python+%7C+Django+%7C+React+Expert;%E2%9A%A1+3%2B+Years+of+Experience;%F0%9F%94%A5+Building+Scalable+Web+Applications;%F0%9F%8C%9F+Open+to+New+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -183,7 +183,7 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
   
 ### ⭐ *"Code is poetry written in logic"* ⭐
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F85D7F&center=true&vCenter=true&width=800&height=100&lines=💫+Thank+you+for+visiting+my+digital+space!;🚀+Let's+build+something+extraordinary+together!;⚡+Always+excited+to+connect+and+collaborate!;🌟+Ready+to+turn+ideas+into+reality!" alt="Footer Message"/> -->
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,30,20&height=150&section=footer&animation=twinkling&fontColor=FFFFFF&text=🚀+Keep+Coding+🚀&fontSize=20"/>
 
