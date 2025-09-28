@@ -183,7 +183,7 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
   
 ### ⭐ *"Code is poetry written in logic"* ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F85D7F&center=true&vCenter=true&width=800&height=100&lines=💫+Thank+you+for+visiting+my+digital+space!;🚀+Let's+build+something+extraordinary+together!;⚡+Always+excited+to+connect+and+collaborate!;🌟+Ready+to+turn+ideas+into+reality!" alt="Footer Message"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F85D7F&center=true&vCenter=true&width=800&height=100&lines=💫+Thank+you+for+visiting+my+digital+space!;🚀+Let's+build+something+extraordinary+together!;⚡+Always+excited+to+connect+and+collaborate!;🌟+Ready+to+turn+ideas+into+reality!" alt="Footer Message"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,30,20&height=150&section=footer&animation=twinkling&fontColor=FFFFFF&text=🚀+Keep+Coding+🚀&fontSize=20"/>
 
