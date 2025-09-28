@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%9A%80+Full-Stack+Software+Developer;%F0%9F%90%8D+Python+%7C+Django+%7C+React+Expert;%E2%9A%A1+3%2B+Years+of+Experience;%F0%9F%94%A5+Building+Scalable+Web+Applications;%F0%9F%8C%9F+Open+to+New+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%F0%9F%9A%80+Full-Stack+Software+Developer;%F0%9F%90%8D+Python+%7C+Django+%7C+React+Expert;%E2%9A%A1+3%2B+Years+of+Experience;%F0%9F%94%A5+Building+Scalable+Web+Applications;%F0%9F%8C%9F+Open+to+New+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,24 +20,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=┌─[yash@github]─[~];│+💻+SYSTEM+ONLINE+-+DEVELOPER+MODE+ACTIVATED+💻;│+🔥+LOADING+NEURAL+NETWORK...+COMPLETE!+🔥;│+🚀+INITIALIZING+CODE+MATRIX...+SUCCESS!+🚀;└─[⚡+READY+FOR+DEPLOYMENT+⚡]" alt="Hacker Terminal" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="100" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> About Me
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm a passionate **Full-Stack Software Developer** with **3+ years of experience** building scalable web applications. I specialize in creating robust backend systems with **Python/Django** and dynamic frontend experiences with **React** and modern JavaScript frameworks.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" /> What I Do:
+### 🔥 What I Do:
 - 🌐 **Full-Stack Development**: End-to-end web application development
 - 🐍 **Backend Expert**: Python, Django, Ruby on Rails
 - ⚛️ **Frontend Specialist**: React, JavaScript, HTML5, CSS3
@@ -46,7 +38,7 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 - 🗄️ **Database Management**: PostgreSQL, MySQL, MongoDB
 - ☁️ **Cloud Technologies**: AWS, Docker, DevOps practices
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" /> Currently:
+### 💼 Currently:
 - 🔍 **Open for new opportunities** - Let's build something amazing together!
 - 🌱 **Learning**: Advanced cloud technologies and microservices
 - 👯 **Looking to collaborate** on innovative open-source projects
@@ -94,15 +86,7 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" /> GitHub Analytics
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=⚡+Analyzing+GitHub+Data...;📈+Fetching+Statistics...;🎯+Data+Visualization+Ready!" alt="Loading Stats"/>
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yash244466666&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=73BCF7&border_radius=15" height="200px"/>
@@ -202,7 +186,7 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
   
 ### ⭐ *"Code is poetry written in logic"* ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=💫+Thank+you+for+visiting+my+digital+space!;🚀+Let's+build+something+extraordinary+together!;⚡+Always+excited+to+connect+and+collaborate!;🌟+Ready+to+turn+ideas+into+reality!" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&height=100&lines=💫+Thank+you+for+visiting+my+digital+space!;🚀+Let's+build+something+extraordinary+together!;⚡+Always+excited+to+connect+and+collaborate!;🌟+Ready+to+turn+ideas+into+reality!" alt="Footer Message"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,30,20&height=150&section=footer&animation=twinkling&fontColor=FFFFFF&text=🚀+Keep+Coding+🚀&fontSize=20"/>
 
