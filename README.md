@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=600&pause=150&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=%F0%9F%8C%9F+Open+to+New+Opportunities!;%F0%9F%9A%80+Full-Stack+JavaScript+%7C+TypeScript+Expert;%F0%9F%90%8D+Next.js+%7C+NestJS+%7C+React+%7C+Node.js+Specialist;%E2%9A%A1+4%2B+Years+of+Experience;%F0%9F%94%A5+Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=600&pause=150&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=%F0%9F%8C%9F+Open+to+New+Opportunities!;%F0%9F%9A%80+Full-Stack+JavaScript+%7C+TypeScript+Expert;%F0%9F%90%8D+Next.js+%7C+NestJS+%7C+React+%7C+Node.js+Specialist;%F0%9F%94%A5+Data+Scraping+%7C+Playwright+%7C+Selenium+Expert;%E2%9A%A1+4%2B+Years+of+Experience" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,13 +24,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **Full-Stack Software Engineer** with **4+ years of experience** building modern web applications and scalable systems. I specialize in creating robust backend APIs with **Node.js/NestJS** and dynamic frontend experiences with **Next.js/React**, while also working on **TypeScript** development and **microservices architecture**.
+I'm a passionate **Full-Stack Software Engineer** with **4+ years of experience** building modern web applications and scalable systems. I specialize in creating robust backend APIs with **Node.js/NestJS** and dynamic frontend experiences with **Next.js/React**, while also working on **TypeScript** development, **data scraping** with **Playwright/Selenium**, and **microservices architecture**.
 
 ### 🔥 What I Do:
 - 🌐 **Full-Stack Development**: End-to-end web application development
 - ⚡ **JavaScript/TypeScript Expert**: Node.js, NestJS, Next.js, React, Vue.js
 - 🚀 **Modern Frontend**: Next.js, React, TypeScript, Tailwind CSS, Redux
 - 🔧 **Backend Specialist**: NestJS, Node.js, Express.js, FastAPI, Django
+- 🕷️ **Data Scraping & Automation**: Playwright, Selenium, TypeScript, Python
 - 📱 **Responsive Design**: Mobile-first, cross-platform applications
 - 🔗 **API Development**: RESTful APIs, GraphQL, and microservices
 - 🗄️ **Database Management**: PostgreSQL, MongoDB, Redis
@@ -83,7 +84,13 @@ I'm a passionate **Full-Stack Software Engineer** with **4+ years of experience*
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🕷️ Data Scraping & Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
