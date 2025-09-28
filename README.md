@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm MD Mohi Minul Islam Yash
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20Expert%20%7C%20Open%20Source%20Enthusiast&descAlignY=52&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20Expert%20%7C%20AI%20Automation%20Specialist&descAlignY=52&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=600&pause=150&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%F0%9F%9A%80+Open+to+New+Opportunities!;+Full-Stack+Software+Developer;%F0%9F%90%8D+Python+%7C+Django+%7C+React+Expert;%E2%9A%A1+3%2B+Years+of+Experience;%F0%9F%94%A5+Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=600&pause=150&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%F0%9F%9A%80+Software+Engineer+at+Prospect+Engine;%F0%9F%90%8D+Python+%7C+Django+%7C+React+%7C+Vue.js+Expert;%E2%9A%A1+4%2B+Years+of+Experience;%F0%9F%94%A5+AI+Automation+%26+Reverse+Engineering;%F0%9F%8C%9F+Building+Scalable+SaaS+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,23 +24,24 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **Full-Stack Software Developer** with **3+ years of experience** building scalable web applications. I specialize in creating robust backend systems with **Python/Django** and dynamic frontend experiences with **React** and modern JavaScript frameworks.
+I'm a passionate **Software Engineer** with **4+ years of experience** building scalable web applications and AI-powered automation systems. I specialize in creating robust backend systems with **Python/Django** and dynamic frontend experiences with **React/Vue.js**, while also working on **AI automation** and **reverse engineering** for SaaS products.
 
 ### 🔥 What I Do:
 - 🌐 **Full-Stack Development**: End-to-end web application development
-- 🐍 **Backend Expert**: Python, Django, Ruby on Rails
-- ⚛️ **Frontend Specialist**: React, JavaScript, HTML5, CSS3
+- 🐍 **Backend Expert**: Python, Django, Ruby on Rails, Node.js, NestJS
+- ⚛️ **Frontend Specialist**: React, Vue.js, Next.js, JavaScript, TypeScript
+- 🤖 **AI Automation**: Reverse engineering platforms for AI-based automation
 - 📱 **Responsive Design**: Mobile-first, cross-platform applications
-- 🔗 **API Integration**: RESTful APIs and third-party services
+- 🔗 **API Integration**: RESTful APIs, GraphQL, and third-party services
 - 🗄️ **Database Management**: PostgreSQL, MySQL, MongoDB
 - ☁️ **Cloud Technologies**: AWS, Docker, DevOps practices
 
 ### 💼 Currently:
-- 🔍 **Open for new opportunities** - Let's build something amazing together!
-- 🌱 **Learning**: Advanced cloud technologies and microservices
+- 🚀 **Software Engineer at Prospect Engine** - Working on SaaS products and AI automation
+- 🌱 **Learning**: Advanced AI/ML integration and microservices architecture
 - 👯 **Looking to collaborate** on innovative open-source projects
-- 💬 **Ask me about**: Python, Django, React, or any web development topic
-- ⚡ **Fun fact**: I debug with console.log and I'm not ashamed! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="20" />
+- 💬 **Ask me about**: Python, Django, React, Vue.js, AI automation, or web development
+- ⚡ **Fun fact**: I helped reduce bugs by 30% and improved efficiency by 25% in previous projects! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="20" />
 
 ## 🛠️ Technical Arsenal
 
@@ -55,7 +56,9 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,18 +69,21 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -147,15 +153,20 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 
 ## 💼 Featured Projects
 
-### 🚀 Prospect Engine
-**Lead Generation Platform** | [🔗 Live Demo](https://prospectengine.com/)
-- 💡 Full-stack web application for automated lead generation and management with AI-powered insights
-- 🛠️ **Django • React • PostgreSQL • REST API • Redis**
+### 🚀 Prospect Engine (Current Role)
+**SaaS Product - Sendout.ai** | [🔗 Live Demo](https://prospectengine.com/)
+- 💡 Full-stack SaaS platform with AI-powered automation and reverse engineering capabilities
+- 🛠️ **Python • Django • React • PostgreSQL • AI Automation • Reverse Engineering**
 
 ### 💻 Bengal7IT Solutions  
 **IT Services Platform** | [🔗 Live Demo](https://bengal7it.com/)
 - 💡 Corporate website with comprehensive service management system and client portal
 - 🛠️ **Django • Bootstrap • MySQL • jQuery • Ajax**
+
+### 🌐 2i Global Network
+**Web Application Development** | [🔗 Portfolio](https://github.com/yash244466666)
+- 💡 Full-stack web application with 100% client satisfaction rate through strict testing
+- 🛠️ **Ruby on Rails • React • PostgreSQL • TDD • RSpec**
 
 ### 🎯 Juubix Platform
 **Business Solutions Portal** | [🔗 Live Demo](https://www.juubix.com/)
@@ -171,11 +182,11 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 
 ## 🎯 What I'm Working On
 
-- 🔭 **Currently Working On**: Advanced Django applications with microservices architecture
-- 🌱 **Learning**: Cloud technologies (AWS, Docker), GraphQL, and AI/ML integration  
+- 🔭 **Currently Working On**: AI-powered automation systems and reverse engineering at Prospect Engine
+- 🌱 **Learning**: Advanced AI/ML integration, microservices architecture, and cloud technologies
 - 👯 **Looking to Collaborate**: Open source projects and innovative web applications
-- 💬 **Ask Me About**: Python, Django, React, Full-stack development, or career advice
-- ⚡ **Fun Fact**: I believe every bug is just an undocumented feature! 🐛➡️✨
+- 💬 **Ask Me About**: Python, Django, React, Vue.js, AI automation, or full-stack development
+- ⚡ **Fun Fact**: I achieved 100% client satisfaction rate through strict testing and bug-free implementation! 🐛➡️✨
 
 ---
 
