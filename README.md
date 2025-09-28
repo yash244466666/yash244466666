@@ -53,131 +53,43 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
 - 💬 **Ask me about**: Python, Django, React, or any web development topic
 - ⚡ **Fun fact**: I debug with console.log and I'm not ashamed! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="20" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" /> Programming Languages
-      
-<div align="center">
-  
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-</div>
-
-    </td>
-    <td valign="top" width="33%">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="25" /> Frontend Development
-      
-<div align="center">
-
+### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
-
-    </td>
-    <td valign="top" width="33%">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Backend Development
-      
-<div align="center">
-
+### ⚙️ Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-</div>
-
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" /> Databases
-      
-<div align="center">
-
+### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-    </td>
-    <td valign="top" width="33%">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" /> Cloud & DevOps
-      
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
-    </td>
-    <td valign="top" width="33%">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Tools" width="25" /> Development Tools
-      
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,ts,html,css,postgres,mongodb,docker,aws,git,linux,vscode&perline=7&theme=dark" alt="Tech Stack"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=F85D7F&center=true&vCenter=true&width=800&lines=⚡+Mastering+the+art+of+clean+code...;🔧+Building+robust+architectures...;🚀+Deploying+to+production...;💡+Solving+complex+problems...;🎯+Delivering+exceptional+user+experiences..." alt="Skills Loading"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08459d04-7824-4cf5-a9c2-7b3b58d5ac82.gif" width="100">
 </div>
 
 ---
@@ -205,40 +117,10 @@ I'm a passionate **Full-Stack Software Developer** with **3+ years of experience
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash244466666&theme=high-contrast&hide_border=true&area=true&custom_title=🔥+Contribution+Activity+Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF7&area_color=F85D7F" alt="Activity Graph"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="🏆" width="35" /> GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yash244466666&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20with%20Upwards%20Trend.png" alt="📈" width="25" /> Performance Metrics
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yash244466666&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=73BCF7&border_radius=15" alt="WakaTime Stats"/>
-
-</div>
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="📅" width="25" /> Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-🔥 Languages Used This Week:
-
-Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
-TypeScript   2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
-CSS          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.4%
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
-
-💻 Development Focus: Backend Architecture & API Design
-🚀 Current Sprint: Microservices Implementation
-⚡ Daily Commits: Consistent contributor
-```
-<!--END_SECTION:waka-->
-
 </div>
 
 ---
@@ -282,254 +164,43 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" /> Featured Projects
+## 💼 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+### 🚀 Prospect Engine
+**Lead Generation Platform** | [🔗 Live Demo](https://prospectengine.com/)
+- 💡 Full-stack web application for automated lead generation and management with AI-powered insights
+- 🛠️ **Django • React • PostgreSQL • REST API • Redis**
 
-### 🚀 Recent Work
+### 💻 Bengal7IT Solutions  
+**IT Services Platform** | [🔗 Live Demo](https://bengal7it.com/)
+- 💡 Corporate website with comprehensive service management system and client portal
+- 🛠️ **Django • Bootstrap • MySQL • jQuery • Ajax**
 
-<div align="center">
+### 🎯 Juubix Platform
+**Business Solutions Portal** | [🔗 Live Demo](https://www.juubix.com/)
+- 💡 Comprehensive business management platform with analytics dashboard
+- 🛠️ **Python • Django • React • PostgreSQL • Chart.js**
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" />
-        Prospect Engine
-      </h3>
-      <div align="center">  
-        <a href="https://prospectengine.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📖_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-        <p><strong>🎯 Lead Generation Platform</strong></p>
-        <p>💡 Full-stack web application for automated lead generation and management with AI-powered insights</p>
-        <p>🛠️ <strong>Django • React • PostgreSQL • REST API • Redis</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" />
-        Bengal7IT Solutions
-      </h3>
-      <div align="center">
-        <a href="https://bengal7it.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📖_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <p><strong>🏢 IT Services Platform</strong></p>
-        <p>💡 Corporate website with comprehensive service management system and client portal</p>
-        <p>🛠️ <strong>Django • Bootstrap • MySQL • jQuery • Ajax</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" />
-        Juubix Platform
-      </h3>
-      <div align="center">
-        <a href="https://www.juubix.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📖_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-        <p><strong>📊 Business Solutions Portal</strong></p>
-        <p>💡 Comprehensive business management platform with analytics dashboard</p>
-        <p>🛠️ <strong>Python • Django • React • PostgreSQL • Chart.js</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Classical%20Building.png" alt="Building" width="25" />
-        Government Portal
-      </h3>
-      <div align="center">
-        <a href="https://rhd.patuakhali.gov.bd/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📖_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
-        <p><strong>🏛️ Official Government Website</strong></p>
-        <p>💡 Digital governance platform for public services with citizen portal</p>
-        <p>🛠️ <strong>Django • HTML5 • CSS3 • MySQL • Bootstrap</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
+### 🏛️ Government Portal
+**Digital Governance Platform** | [🔗 Live Demo](https://rhd.patuakhali.gov.bd/)
+- 💡 Digital governance platform for public services with citizen portal
+- 🛠️ **Django • HTML5 • CSS3 • MySQL • Bootstrap**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="35" /> What I'm Working On
+## 🎯 What I'm Working On
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" />
-      <strong>Currently Working On</strong><br>
-      Advanced Django applications with microservices architecture
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" />
-      <strong>Learning</strong><br>
-      Cloud technologies (AWS, Docker), GraphQL, and AI/ML integration
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Collaboration" width="25" />
-      <strong>Looking to Collaborate</strong><br>
-      Open source projects and innovative web applications
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Speech" width="25" />
-      <strong>Ask Me About</strong><br>
-      Python, Django, React, Full-stack development, or career advice
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+- 🔭 **Currently Working On**: Advanced Django applications with microservices architecture
+- 🌱 **Learning**: Cloud technologies (AWS, Docker), GraphQL, and AI/ML integration  
+- 👯 **Looking to Collaborate**: Open source projects and innovative web applications
+- 💬 **Ask Me About**: Python, Django, React, Full-stack development, or career advice
+- ⚡ **Fun Fact**: I believe every bug is just an undocumented feature! 🐛➡️✨
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-b92a-7b853fd2f04d.gif" width="1000">
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Terminal.png" alt="Terminal" width="35" /> Terminal Activity
-
-<div align="center">
-
-```bash
-yash@github:~$ whoami
-MD Mohi Minul Islam Yash - Full Stack Developer
-
-yash@github:~$ ls skills/
-Python/  Django/  React/  JavaScript/  PostgreSQL/  Docker/  AWS/
-
-yash@github:~$ cat experience.txt
-3+ years of building scalable web applications
-Specialized in Python/Django backend development
-Expert in React frontend development
-DevOps and Cloud technologies enthusiast
-
-yash@github:~$ status
-Currently: Available for new opportunities
-Working on: Advanced microservices architecture
-Learning: AI/ML integration and cloud native development
-
-yash@github:~$ echo "Let's build something amazing together!"
-Let's build something amazing together!
-```
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="🐍" width="35" /> Contribution Snake Game
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash244466666/yash244466666/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash244466666/yash244466666/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash244466666/yash244466666/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=🐍+Snake+eating+my+contributions...;🎮+Watch+the+green+squares+disappear!;💚+Powered+by+GitHub+Actions" alt="Snake Description"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" alt="🎮" width="35" /> Interactive Zone
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="😎" width="25" /> Random Dev Joke</h3>
-        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117&textColor=73BCF7&codeColor=F8D866" alt="Jokes Card" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="🔮" width="25" /> Dev Quote of the Day</h3>
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true" alt="Dev Quote"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="🎵" width="25" /> Currently Vibing To
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yash244466666&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=F85D7F&bar_color_cover=true" alt="Spotify Now Playing"/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="🎮" width="25" /> GitHub Skyline & Metrics
-
-<img src="https://skyline.github.com/yash244466666/2024.png" alt="GitHub Skyline"/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="25" /> AI-Powered Insights
-
-<img src="https://github-readme-ai.vercel.app/api?username=yash244466666&theme=radical" alt="AI Insights"/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="⚒️" width="25" /> Tech Stack Visualization
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,python,auto;django,django,auto;fastapi,fastapi,auto;&line2=react,react,auto;javascript,javascript,auto;typescript,typescript,auto;&line3=postgresql,postgresql,auto;mongodb,mongodb,auto;docker,docker,auto;" alt="Tech Stack"/>
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yash244466666&skills=Python,JavaScript,TypeScript,React,Django,PostgreSQL,Docker,AWS&width=800&show-other-skills=true&bg=0D1117&border=F85D7F&line=F8D866&point=73BCF7" alt="Skills Chart"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-b92a-7b853fd2f04d.gif" width="100%">
-</div>
-
-<div align="center">
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="✨" width="35" /> Profile 3D Visualization
-
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=yash244466666&theme=radical&background=0D1117&rotate=false&width=800&height=400" alt="3D Profile Card"/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Comet.png" alt="☄️" width="25" /> Real-time GitHub Metrics
-
-<img src="https://metrics.lecoq.io/yash244466666?template=classic&config.timezone=Asia%2FDhaka&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.theme=dark&config.timezone=Asia%2FDhaka" alt="GitHub Metrics"/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="⭐" width="25" /> *"Code is poetry written in logic"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="⭐" width="25" />
+### ⭐ *"Code is poetry written in logic"* ⭐
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=💫+Thank+you+for+visiting+my+digital+space!;🚀+Let's+build+something+extraordinary+together!;⚡+Always+excited+to+connect+and+collaborate!;🌟+Ready+to+turn+ideas+into+reality!" alt="Footer Typing"/>
 
